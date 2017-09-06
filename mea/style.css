@@ -1,0 +1,58 @@
+body{
+	background-color: #D3D3D3;
+	
+}
+
+#wrapper{
+	text-align: center;
+	border: 2px solid;
+	margin-left: inherit;
+    margin-right: inherit;
+	width:74%;
+
+    background-color: #ffffff;
+    margin-top: -380px;
+}
+
+#content{
+	text-align: left;
+	font-size: 18px;
+	margin: 5% auto ;
+	width:90%;
+	height: 50%;   
+}
+
+nav a{ 
+    color: black;
+    float: right;
+    font-size: 30px;
+    padding-right: 150px;
+    margin-top: 50px;
+    list-style-type: none;
+    border: 2px;
+  
+}
+
+img{
+    
+    padding-left: 13%;
+    
+}
+p{
+    line-height: 30px;
+   
+}
+footer{
+    padding-bottom: 10%;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
