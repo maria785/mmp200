@@ -1,5 +1,9 @@
 body{
 	background-color: #D3D3D3;
+    font-family: helvetica,garamond;
+    max-width: 1170;
+    background-size: 0 auto;
+    margin: 25% auto; 
 	
 }
 
@@ -22,17 +26,20 @@ body{
 	height: 50%;   
 }
 
-nav a{ 
-   font-size: 30px;
+nav a{
+    font-size: 30px;
     text-decoration: none;
     text-align: center;
     margin-left: 60px;
-  
-}
+    color: black;
 
-img{
+}
+nav a:hover{
+    text-decoration: underline;
     
-    padding-left: 13%;
+}
+img{
+width: 100%;
     
 }
 p{
@@ -43,13 +50,5 @@ footer{
     padding-bottom: 10%;
     font-size: 20px;
 }
-
-
-
-
-
-
-
-
 
 
