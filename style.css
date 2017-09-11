@@ -1,5 +1,5 @@
 body{
-	background-color: #D3D3D3;
+    background-color: #D3D3D3;
     font-family: helvetica,garamond;
     max-width: 1170;
     background-size: 0 auto;
@@ -11,11 +11,10 @@ body{
 	text-align: center;
 	border: 2px solid;
 	margin-left: inherit;
-    margin-right: inherit;
+        margin-right: inherit;
 	width:74%;
-
-    background-color: #ffffff;
-    margin-top: -380px;
+       background-color: #ffffff;
+        margin-top: -380px;
 }
 
 #content{
