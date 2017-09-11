@@ -23,13 +23,10 @@ body{
 }
 
 nav a{ 
-    color: black;
-    float: right;
-    font-size: 30px;
-    padding-right: 160px;
-    margin-top: 50px;
-    list-style-type: none;
-    border: 2px;
+   font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 60px;
   
 }
 
